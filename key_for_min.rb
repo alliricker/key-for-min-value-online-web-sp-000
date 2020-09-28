@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
 name_hash.map do |key, value|
   counter = 0
-  if key > 1
+  if value > 1
     puts "key"
     counter += 1
   end
