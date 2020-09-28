@@ -9,3 +9,4 @@ key_for_min_value.map do |key, value|
     counter += 1
   end
 end
+end
